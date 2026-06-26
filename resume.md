@@ -2,8 +2,8 @@
 
 Overland Park, KS • (785) 331-6291 • richard.moorhead@gmail.com
 
-## Staff Data Engineer • Distributed Systems • Real-Time Analytics
-Staff-level engineer with 10+ years building high-throughput platforms spanning streaming data, APIs, lakehouse analytics, and cloud infrastructure.
+## Principal Software Engineer • Distributed Systems • Real-Time Analytics
+Principal-level engineer with 10+ years building high-throughput platforms spanning streaming data, APIs, lakehouse analytics, and cloud infrastructure.
 
 ### Core strengths
 -   **Streaming & event-driven systems:** Kafka, Kafka Streams, Flink, Beam
@@ -15,9 +15,19 @@ Staff-level engineer with 10+ years building high-throughput platforms spanning 
 
 ## Experience
 
+### Artisan
+
+**Principal Software Engineer** | May 2026 – Present
+-   Built real-time ingestion and ETL pipelines into **OpenSearch**.
+-   Designed multi-tenant qualification and enrollment data model on **PostgreSQL**.
+-   Stood up LLM observability stack: **DataDog** metrics, APM spans, dashboards, monitors.
+-   Built **LLM prompt red-team** test suite gating prompt changes in CI.
+
+Stack: TypeScript, Node.js, PostgreSQL, OpenSearch, Inngest, DataDog.
+
 ### Raft — ABMS CBC2
 
-**Staff Data Engineer** | Aug 2023 – Present  
+**Principal Software Engineer** | Aug 2023 – May 2026  
 Cloud-based command & control platform for real-time aircraft telemetry.
 -   Built high-throughput **WebSocket and REST APIs** using Quarkus
 -   Designed and implemented **real-time full-text search** using OpenSearch and Kafka Connect

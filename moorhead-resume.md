@@ -6,8 +6,16 @@ richard.moorhead@gmail.com
 BS Computer Science, BGS Psychology, May 2011 
 
 ## Experience   
+### [Artisan](https://artisan.co)
+#### Principal Software Engineer, May 2026 \- Present
+- Real-time ingestion and ETL pipelines into OpenSearch
+- Multi-tenant qualification and enrollment data model on PostgreSQL
+- LLM observability: DogStatsD metrics, DataDog APM spans, per-tenant dashboards and monitors
+- LLM prompt red-team test suite (attacker / judge orchestrator) gating prompt changes in CI
+- TypeScript, Node.js, Inngest, PostgreSQL, OpenSearch, DataDog
+
 ### [Raft](https://teamraft.com) - [ABMS CBC2](https://www.dote.osd.mil/Portals/97/pub/reports/FY2024/af/2024abms.pdf)  
-#### Principal Software Engineer, August 2023 \- Present   
+#### Principal Software Engineer, August 2023 \- May 2026
 ##### Advanced Battle Management System \- Cloud Based Command & Control
 USAF software package displaying real time telemetry of aircraft
 - Implemented hi-throughput Websocket / REST APIs (Quarkus, Scala) backed by Kafka Streams
