@@ -2,15 +2,15 @@
 
 Overland Park, KS • (785) 331-6291 • richard.moorhead@gmail.com
 
-## Principal Software Engineer • Distributed Systems • Real-Time Analytics
-Principal-level engineer with 10+ years building high-throughput platforms spanning streaming data, APIs, lakehouse analytics, and cloud infrastructure.
+## Principal Software Engineer • Distributed Systems • Real-Time Analytics • AI Infrastructure
+Principal-level engineer with 10+ years building high-throughput platforms spanning streaming data, APIs, lakehouse analytics, cloud and AI infrastructure, including LLM-powered services and observability.
 
 ### Core strengths
--   **Streaming & event-driven systems:** Kafka, Kafka Streams, Flink, Beam
+-   **Streaming & event-driven systems:** Kafka, Kafka Streams, Flink, Beam, Inngest
 -   **Lakehouse & query engines:** Spark, Delta, Trino
 -   **Search & indexing:** OpenSearch, Kafka Connect
--   **Backend services:** Java, Go, Python; REST/WebSocket; gRPC; OpenAPI
--   **Cloud & platform:** AWS, GCP, Kubernetes, Helm, GitLab CI, Terraform
+-   **Backend services:** Java, Go, Python, TypeScript, Node.js; REST/WebSocket; gRPC; OpenAPI; PostgreSQL
+-   **Cloud & observability:** AWS, GCP, Kubernetes, Helm, GitLab CI, Terraform, DataDog
 -   **Leadership:** technical lead, platform design, cross-team delivery
 
 ## Experience
@@ -22,8 +22,6 @@ Principal-level engineer with 10+ years building high-throughput platforms spann
 -   Designed multi-tenant qualification and enrollment data model on **PostgreSQL**.
 -   Stood up LLM observability stack: **DataDog** metrics, APM spans, dashboards, monitors.
 -   Built **LLM prompt red-team** test suite gating prompt changes in CI.
-
-Stack: TypeScript, Node.js, PostgreSQL, OpenSearch, Inngest, DataDog.
 
 ### Raft — ABMS CBC2
 
